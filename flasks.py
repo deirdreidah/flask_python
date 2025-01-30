@@ -21,8 +21,8 @@
 
 #What are the flask components
 #1. Werkzeug (routing,navigation,debugging,web server gateway interface (WSGI) 
-#2. Jinja2 (create user interface(UI))
-#3. Markup safe (helps escape an untrusted user input to escalate injection attacks)
+#2. Jinja2 (create user interface(UI))(#template engine - )
+#3. Markupsafe (helps escape an untrusted user input to escalate injection attacks)
 #4. Click (provides the “Flask” CLI command.(Command Line Interface))
 
 #Advantages of flask components
